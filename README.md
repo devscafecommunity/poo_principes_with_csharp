@@ -6,14 +6,14 @@
   </p>
   <h1 align="center"><b>poo_principles_with_csharp</b></h1>
   <p align="center">
-    Explore the world of Object-Oriented Programming (OOP), .NET platform, C#, Clean Code, and S.O.L.I.D principles in this educational repository.
+    Explore the world of Object-Oriented Programming (OOP), .NET platform, C#, Clean Code, S.O.L.I.D principles, and Design Patterns in this educational repository.
   </p>
 </p>
 <br>
 
 ## Introduction
 
-Welcome to the "poo_principles_with_csharp" repository, your comprehensive resource for understanding and mastering Object-Oriented Programming (OOP) principles, .NET platform intricacies, the C# programming language, Clean Code practices, and S.O.L.I.D design principles. Whether you're a beginner eager to learn or an experienced developer aiming to refine your skills, this repository guides you through essential concepts and practical applications to elevate your software development expertise.
+Welcome to the "poo_principles_with_csharp" repository, your comprehensive resource for understanding and mastering Object-Oriented Programming (OOP) principles, .NET platform intricacies, the C# programming language, Clean Code practices, S.O.L.I.D design principles, and essential Design Patterns. Whether you're a beginner eager to learn or an experienced developer aiming to refine your skills, this repository guides you through essential concepts and practical applications to elevate your software development expertise.
 
 ## Contents
 
@@ -24,6 +24,7 @@ This repository covers a wide range of topics, including:
 - **C# Programming**: Master the syntax, data structures, control flow, and advanced features of the C# language.
 - **Clean Code Practices**: Learn how to write maintainable, readable, and efficient code that follows industry best practices.
 - **S.O.L.I.D Principles**: Dive deep into the five principles of object-oriented design - Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
+- **Design Patterns**: Discover essential software design patterns that offer solutions to recurring design problems, promoting scalability, maintainability, and code reusability.
 
 ## How to Use
 
@@ -48,5 +49,4 @@ Your contributions play a vital role in making this repository a valuable resour
 
 The "poo_principles_with_csharp" repository is licensed under the [MIT License](https://github.com/yourusername/poo_principles_with_csharp/blob/main/LICENSE). You're free to use, modify, and distribute the content. Please refer to the license file for more information.
 
-Embark on a journey to solidify your understanding of OOP, C#, Clean Code practices, and S.O.L.I.D design principles. Let's advance our skills together!
-
+Embark on a journey to solidify your understanding of OOP, C#, Clean Code practices, S.O.L.I.D design principles, and Design Patterns. Let's advance our skills together!
